@@ -1,0 +1,12 @@
+
+.line
+{
+	border:1px solid;
+	white-space:no-wrap;
+	text-align:center;
+	overflow:hidden;
+}
+.hr
+{
+	width:20%;
+}
